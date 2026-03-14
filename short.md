@@ -6,6 +6,8 @@ The purpose of this assignment is to demonstrate object-oriented analysis and mo
 - **ChatGPT**
 - **Claude**
 - **Android Studio AI features**
+- **Gemini**
+- **Github Copilot**
 
 ## How They Helped
 
