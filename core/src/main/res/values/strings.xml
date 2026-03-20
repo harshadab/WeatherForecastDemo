@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherForecastDemo</string>
+    <string name="temperature_format">%1$s\u00B0C</string>
+    <string name="temperature_degree_format">%1$s\u00B0</string>
+    <string name="percent_format">%1$s%%</string>
+    <string name="error_text">No results available. \nCheck your internet connection or try a different search.</string>
+    <string name="location_content_description">Location</string>
+    <string name="daily_forecast_prefix">Daily Forecast\u00A0</string>
+    <string name="precipitation_content_description">Precipitation</string>
+    <string name="weekly_forecast_title">Weekly Forecast</string>
+    <string name="hourly_forecast_title">24-Hour Forecast</string>
+    <string name="weather_icon_content_description">Weather condition icon</string>
+    <string name="current">Show current</string>
+    <string name="search_placeholder">Search City</string>
+    <string name="search_content_description">Search</string>
+    <string name="today">Today</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="feels_like_format">Feels like: %1$s\u00B0</string>
+</resources>
